@@ -1,2 +1,2 @@
 # C-Games
-Some small project that I've created for fun :)
+Some small projects that I've created for fun :)
